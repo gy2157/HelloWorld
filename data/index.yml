@@ -1,0 +1,62 @@
+{
+	section: {
+		url: "https://www.myeyelove.com/",
+		sliderFirst: {
+			title: [
+				"Understanding",
+				"Chronic Dry Eye",
+			],
+			holdImg: "images/imgHeader.gif",
+			holdImgMobile: "images/imgHeaderMobile.gif",
+			arrow: "images/arrow.png",
+			describe: "Over the past two decades, technology has become increasingly prominent <span>in our lives. According</span> to Nielsen, the average American now spends nearly nine hours a day looking at screens — and it might be <span>taking a toll.</span>",
+		},
+		sliderSecond:	{
+				track: "Slide2",
+				time: "1999",
+				holdImg: "images/slide2.gif",
+				describe: "At 19, Ana’s* eyes started bothering her. “My eyes were sometimes red and irritated. <span>Wearing contacts</span> seemed to aggravate the problem.  My symptoms bothered me when I was studying, and driving at night was a bit more difficult because <span>of them.”</span>",
+				legal: "*Hypothetical patient portrayal"
+			},
+		slideTimes: [
+			{
+				track: "Slide3",
+				time: "2006",
+				holdImg: "images/slide3.gif",
+				describe: "“Years after graduating, my symptoms got worse and began interfering with things I loved, including work, watching television and even curling up with a <span>good book.”</span>"
+			},
+			{
+				track: "Slide4",
+				time: "2015",
+				holdImg: "images/slide4.gif",
+				describe: "“In my 30s, I finally saw an eye doctor. I thought they would say it was <span>because of contacts</span>, but they said I had chronic dry eye. I was surprised it was a medical condition and relieved to have <span>an answer.”</span>"
+			},
+		],
+		slideNoTimes: [
+			{
+				track: "Slide5",
+				holdImg: "images/slide5.gif",
+				describe: "Ana is not alone. Nearly 30 million Americans report symptoms consistent with <span>chronic dry</span> eye, and that number is expected <span>to increase.</span>"
+			},
+			{
+				track: "Slide6",
+				holdImg: "images/slide6.gif",
+				describe: "In a national survey* conducted on behalf of Shire, 89% of eye doctors said chronic dry eye is becoming more common because of today’s multi-screen lifestyle, while 76% said it’s affecting younger adults, reporting seeing more patients aged 18 to 34 than a <span>decade ago.</span>"
+			},
+			{
+				track: "Slide7",
+				holdImg: "images/slide7.gif",
+				describe: "Like Ana, most adults with symptoms who were surveyed weren’t aware issues like blurry vision, redness or itching might indicate chronic dry eye. And about <span>seven out of 10</span> thought the discomfort was something they just had to <span>live with.</span>"
+			},
+		],
+		sliderLast: {
+			track: "Slide8",
+			holdImg: "images/slide8.gif",
+			describe: "If Ana’s story sounds familiar to you, chat with your eye doctor and visit www.myeyelove.com to read more about chronic dry eye and the <span>survey results.</span>",
+			cta: "LEARN MORE",
+			logo: "images/logo.png",
+			illustration: "Illustration by Carolina Melis",
+			legal: "*The National Eye C.A.R.E. (Current Attitudes Related to Eye Health) survey was conducted online within the United States by Harris Poll on behalf of Shire from July 6 to 27, 2015, among 1,210 adults with dry eye symptoms (those diagnosed with chronic dry eye or who had experienced dry eye symptoms and used artificial tears within the past month) and 1,015 eye doctors (optometrists and ophthalmologists). <span>S15298 04/17</span>"
+		},
+	}
+}
